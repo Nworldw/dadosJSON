@@ -16,7 +16,7 @@
         "nome": "Jordan Jumpman 3",
         "tamanho": 43,
         "preço": 1111.00,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/a.jpg"
 
     }
     {
@@ -33,4 +33,10 @@
         "imagem": "img/teste.jpg"
 
     }
+    {
+        "nome": "Moletom",
+        "tamanho": "g",
+        "preço": ,
+        "imagem": "img/teste.jpg"
+
 ]
