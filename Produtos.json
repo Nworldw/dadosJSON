@@ -1,0 +1,36 @@
+[
+    {
+        "nome": "Calças Jeans",
+        "tamanho": 42,
+        "preço": 139.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome": "Tênis Feminino",
+        "tamanho": 35,
+        "preço": 245.00,
+        "imagem": "img/teste.jpg"
+
+    }
+    {
+        "nome": "Jordan Jumpman 3",
+        "tamanho": 43,
+        "preço": 1111.00,
+        "imagem": "img/teste.jpg"
+
+    }
+    {
+        "nome": "Tênis Sk8-Hi",
+        "tamanho": 20-45,
+        "preço": ,
+        "imagem": "img/teste.jpg"
+
+    }
+    {
+        "nome": "",
+        "tamanho": ,
+        "preço": ,
+        "imagem": "img/teste.jpg"
+
+    }
+]
