@@ -22,14 +22,14 @@
     {
         "nome": "Tênis Sk8-Hi",
         "tamanho": 20-45,
-        "preço": ,
+        "preço": 349,
         "imagem": "img/teste.jpg"
 
     }
     {
-        "nome": "",
-        "tamanho": ,
-        "preço": ,
+        "nome": "Camisa Polo Masculina",
+        "tamanho": "g",
+        "preço": 79,
         "imagem": "img/teste.jpg"
 
     }
