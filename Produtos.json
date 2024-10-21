@@ -1,15 +1,15 @@
 [
     {
-        "nome": "Calças Jeans",
-        "tamanho": 42,
+        "nome": "Moletom feminino",
+        "tamanho": "p",
         "preço": 139.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/h.jpg"
     }
     {
         "nome": "Tênis Feminino",
         "tamanho": 35,
         "preço": 245.00,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/.jpg"
 
     }
     {
@@ -23,14 +23,14 @@
         "nome": "Tênis Sk8-Hi",
         "tamanho": 20-45,
         "preço": 349,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/b.jpg"
 
     }
     {
         "nome": "Camisa Polo Masculina",
         "tamanho": "g",
         "preço": 79,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/images.jpg"
 
     }
     {
